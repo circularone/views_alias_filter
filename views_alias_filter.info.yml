@@ -1,0 +1,8 @@
+name: Views Alias Filter
+type: module
+description: Allows filtering on entities by path alias in views
+package: Views
+core_version_requirement: ^9 || ^10
+dependencies:
+  - views
+  - path

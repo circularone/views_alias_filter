@@ -1,0 +1,5 @@
+views_alias_filter.config_tab:
+  route_name: views_alias_filter.views_alias_filter_settings
+  title: Rebuild views alias table
+  parent_id: views_ui.settings_tab
+  weight: 20

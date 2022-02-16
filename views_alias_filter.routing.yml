@@ -1,0 +1,7 @@
+views_alias_filter.views_alias_filter_settings:
+  path: 'admin/structure/views/settings/alias'
+  defaults:
+    _form: '\Drupal\views_alias_filter\Form\SettingsForm'
+    _title: 'Rebuild views alias table'
+  requirements:
+    _permission: 'administer views'
